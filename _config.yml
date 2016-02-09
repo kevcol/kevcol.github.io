@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://kevcol.github.io
+title: KevCol Labs LLC
+tagline: Half experiment |  Half experience
+description: Publisher of unusually fun iOS games.
+paginate: 5
